@@ -1,0 +1,7 @@
+var skillPoints = 10
+var Str = 0
+var Int = 0
+var Agl = 0
+var = Lck
+
+alert('Hello")
